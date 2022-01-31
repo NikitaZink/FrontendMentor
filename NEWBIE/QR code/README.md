@@ -1,4 +1,4 @@
-https://nikitazink-qr-code-component.netlify.app/
+https://nikitazink-qr-code.netlify.app/
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
